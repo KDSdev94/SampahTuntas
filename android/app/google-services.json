@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "950952151218",
+    "firebase_url": "https://pengelolaan-sampah-d1ad4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pengelolaan-sampah-d1ad4",
+    "storage_bucket": "pengelolaan-sampah-d1ad4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950952151218:android:0dcb65563cf702e37d21ab",
+        "android_client_info": {
+          "package_name": "com.sampah.tuntas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9jeijT4PuPEgtW6kLetcFB-DBZAMT04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
